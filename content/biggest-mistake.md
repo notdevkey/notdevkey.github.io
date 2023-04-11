@@ -1,6 +1,6 @@
 +++
 title = "The biggest mistake of my early career"
-date = 2023-04-11
+date = 2023-04-12
 
 [taxonomies]
 categories = ["Thoughts", "Guides"]
