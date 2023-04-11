@@ -47,8 +47,8 @@ author = "Ronalds Palacis"
 after_dark_menu = [
     { name = "Home", url = "$BASE_URL" },
     { name = "Categories", url = "$BASE_URL/categories" },
-    { name = "Source", url = "https://github.com/orhun/personal-blog" },
+    { name = "Source", url = "https://github.com/Devkeystuff/devkeystuff.github.io" },
     { name = "RSS", url = "$BASE_URL/rss.xml" },
-    { name = "About", url = "https://orhun.dev" },
+    { name = "About", url = "https://github.com/Devkeystuff" },
 ]
 after_dark_title = "Devkey's Blog | Web3 • Design • Music"
