@@ -6,7 +6,7 @@ date = 2023-04-12
 categories = ["Thoughts", "Guides"]
 +++
 
-Mistakes are good. They imply you're in an uncomfortable place. It was so painful I left the company. But the business keeps chasing me to this day.
+Mistakes are good. They imply you're in an uncomfortable place. I was so uncomfortable I left the place. But the place keeps chasing me till this day.
 
 <!-- more -->
 
@@ -39,7 +39,7 @@ firstEmitter.emit("My first event");
 Yes, that's the most primitive event emitter written in [Javascript](https://developer.mozilla.org/en-US/docs/Web/javascript) - the core of all problems.
 Doesn't sound too crazy, but if you know a little about how state management works in [React](https://react.dev/) and if I told you that state change was _always_ triggered by events... yeah... the face of disgust.
 
-There was no possibility of debugging the code because HTTP requests were being made every 5 seconds, which means... *clears throat*... asynchronous event-based state changes every single time. And it wasn't just one state that lived happily in one component. It was state triggered across all components. You never knew which one could handle the event first. On top of that, every single React component extended the Node.js `EventEmitter` class. And the event handler itself was a HUGE class that reached 4k lines of code in one file. Absolute disaster.
+There was no possibility of debugging the code because HTTP requests were being made every 5 seconds, which means... _clears throat_... asynchronous event-based state changes every single time. And it wasn't just one state that lived happily in one component. It was state triggered across all components. You never knew which one could handle the event first. On top of that, every single React component extended the Node.js `EventEmitter` class. And the event handler itself was a HUGE class that reached 4k lines of code in one file. Absolute disaster.
 
 ### The redemption
 
@@ -85,7 +85,7 @@ Till this day, I still have nightmares of events emitting uncontrollably, but ha
 
 The problem is - I live in a small town, and every IT person here knows the CEO. Heck, he even appears all around Latvia. I keep seeing him in every single event I go to.
 
-I started a student company this year, which involves machine learning concepts. I sought a mentor to guide me through creating such solution. There were no results until one day... *The guy* texted me, saying he saw this student company on a public spreadsheet working on an AI solution, and asked if I knew the people behind it. Me, excited from being noticed, I proudly let him know it is I, the man himself.
+I started a student company this year, which involves machine learning concepts. I sought a mentor to guide me through creating such solution. There were no results until one day... _The guy_ texted me, saying he saw this student company on a public spreadsheet working on an AI solution, and asked if I knew the people behind it. Me, excited from being noticed, I proudly let him know it is I, the man himself.
 
 Two weeks later I find myself enrolled in a deep learning course of his and also him offering me a "partnership" with my student company, where he, in the end of the day, keeps the biggest cut.
 
