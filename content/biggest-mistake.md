@@ -20,7 +20,7 @@ When you start working at a company, you must go through an internship. It's whe
 
 You develop a certain degree of Stockholm syndrome when joining a new company, especially if it's your first time and you're a junior developer(guess what, it's me). Now there are big Chad programmer guys who take you by your hand and lead you through the frameworks and procedures they used to make the software and how they work. And you listen carefully. You fool. No, no, it was me; I was the fool...
 
-That's what internships are all about - learning for the better. The worst part is that they could have provided me with excellent and proven tutorials already available on the internet. No. The company CEO was hosting YouTube streams where he taught his ways of software development to innocent students, just like me. The points made in those streams were so far off and contradicted everything I had learned about so far. But I felt like I was enlightened at that moment. I thought, wow, such a unique approach; this must be super efficient!
+That's what internships are all about - learning from the better. The worst part is that they could have provided me with excellent and proven tutorials already available on the internet. No. The company CEO was hosting YouTube streams where he taught his ways of software development to innocent students, just like me. The points made in those streams were so far off and contradicted everything I had learned about so far. But I felt like I was enlightened at that moment. I thought, wow, such a unique approach; this must be super efficient!
 
 Haha, yeah...
 
