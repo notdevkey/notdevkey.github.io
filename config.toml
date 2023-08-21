@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://devkeystuff.github.io"
+base_url = "https://notdevkey.github.io"
 
 title = "Devkey's blog"
 
@@ -25,9 +25,7 @@ generate_feed = true
 feed_filename = "rss.xml"
 
 # The taxonomies to be rendered for the site and their configuration of the default languages
-taxonomies = [
-    { name = "categories", feed = true },
-]
+taxonomies = [{ name = "categories", feed = true }]
 
 [markdown]
 # Whether to do syntax highlighting
@@ -47,8 +45,8 @@ author = "Ronalds Palacis"
 after_dark_menu = [
     { name = "Home", url = "$BASE_URL" },
     { name = "Categories", url = "$BASE_URL/categories" },
-    { name = "Source", url = "https://github.com/Devkeystuff/devkeystuff.github.io" },
+    { name = "Source", url = "https://github.com/notdevkey/notdevkey.github.io" },
     { name = "RSS", url = "$BASE_URL/rss.xml" },
-    { name = "About", url = "https://github.com/Devkeystuff" },
+    { name = "About", url = "https://github.com/notdevkey" },
 ]
 after_dark_title = "Devkey's Blog | Web3 • Design • Music"
