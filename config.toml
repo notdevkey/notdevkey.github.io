@@ -25,7 +25,10 @@ generate_feed = true
 feed_filename = "rss.xml"
 
 # The taxonomies to be rendered for the site and their configuration of the default languages
-taxonomies = [{ name = "categories", feed = true }]
+taxonomies = [
+    { name = "categories", feed = true },
+    { name = "tags", feed = true },
+]
 
 [markdown]
 # Whether to do syntax highlighting
@@ -48,5 +51,6 @@ after_dark_menu = [
     { name = "Source", url = "https://github.com/notdevkey/notdevkey.github.io" },
     { name = "RSS", url = "$BASE_URL/rss.xml" },
     { name = "About", url = "https://github.com/notdevkey" },
+    { name = "SoundCloud", url = "https://soundcloud.com/notdevkey" },
 ]
 after_dark_title = "Devkey's Blog | Web3 • Design • Music"
