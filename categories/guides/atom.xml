@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title> - Guides</title>
+    <link href="https://notdevkey.github.io/categories/guides/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://notdevkey.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-09-28T00:00:00+00:00</updated>
+    <id>https://notdevkey.github.io/categories/guides/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Maximizing copyright for monetary gain</title>
+        <published>2024-09-28T00:00:00+00:00</published>
+        <updated>2024-09-28T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://notdevkey.github.io/copyright-money/" type="text/html"/>
+        <id>https://notdevkey.github.io/copyright-money/</id>
+        
+        <summary type="html">&lt;p&gt;I accidentally made a banger remix and got away without disclosing copyrights. I wanted to understand how it works, so I dove into the world of copyrights and royalties. Here&#x27;s what I found.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Beginners guide on setting yourself up for success</title>
+        <published>2024-09-16T00:00:00+00:00</published>
+        <updated>2024-09-16T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://notdevkey.github.io/setting-up-for-success/" type="text/html"/>
+        <id>https://notdevkey.github.io/setting-up-for-success/</id>
+        
+        <summary type="html">&lt;p&gt;A guide on how to (realistically) go big and not go home.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>We built an Arduino MIDI controller, but not your usual MIDI controller.</title>
+        <published>2023-11-12T00:00:00+00:00</published>
+        <updated>2023-11-12T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://notdevkey.github.io/maze-midi/" type="text/html"/>
+        <id>https://notdevkey.github.io/maze-midi/</id>
+        
+        <summary type="html">&lt;p&gt;This is how we got into an innovation grants project without any prior expectations nor experience and figured our way through by creating a MIDI controller. I&#x27;m going to talk about all the insights, issues and how we resolved them. Also featuring some really crucial tips and an Ableton rack.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>The biggest mistake of my early career</title>
+        <published>2023-04-12T00:00:00+00:00</published>
+        <updated>2023-04-12T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://notdevkey.github.io/biggest-mistake/" type="text/html"/>
+        <id>https://notdevkey.github.io/biggest-mistake/</id>
+        
+        <summary type="html">&lt;p&gt;Mistakes are good. They imply you&#x27;re in an uncomfortable place. I was so uncomfortable I left the place. But the place keeps chasing me till this day.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+</feed>
