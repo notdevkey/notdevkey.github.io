@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title> - Finance</title>
+    <link href="https://notdevkey.github.io/categories/finance/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://notdevkey.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-12-25T00:00:00+00:00</updated>
+    <id>https://notdevkey.github.io/categories/finance/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Managing affiliate finances: From spreadsheets to scalability</title>
+        <published>2024-12-25T00:00:00+00:00</published>
+        <updated>2024-12-25T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://notdevkey.github.io/managing-affiliate-finances/" type="text/html"/>
+        <id>https://notdevkey.github.io/managing-affiliate-finances/</id>
+        
+        <summary type="html">&lt;p&gt;&amp;quot;Everything is based on money for money.&amp;quot; That&#x27;s how our Finance Management course at Business Academy started, and it couldn&#x27;t be more true for affiliate marketing. While most affiliate guides focus on traffic and conversions, they rarely mention the complex financial infrastructure needed to make it all work. Here&#x27;s how we turned our casino affiliate project from a simple spreadsheet into a scalable financial system.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+</feed>
