@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title> - Thoughts</title>
+    <link href="https://notdevkey.github.io/categories/thoughts/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://notdevkey.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2023-04-12T00:00:00+00:00</updated>
+    <id>https://notdevkey.github.io/categories/thoughts/atom.xml</id>
+    <entry xml:lang="en">
+        <title>The biggest mistake of my early career</title>
+        <published>2023-04-12T00:00:00+00:00</published>
+        <updated>2023-04-12T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://notdevkey.github.io/biggest-mistake/" type="text/html"/>
+        <id>https://notdevkey.github.io/biggest-mistake/</id>
+        
+        <summary type="html">&lt;p&gt;Mistakes are good. They imply you&#x27;re in an uncomfortable place. I was so uncomfortable I left the place. But the place keeps chasing me till this day.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Hello world!</title>
+        <published>2022-10-03T00:00:00+00:00</published>
+        <updated>2022-10-03T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://notdevkey.github.io/hello-world/" type="text/html"/>
+        <id>https://notdevkey.github.io/hello-world/</id>
+        
+        <summary type="html">&lt;p&gt;Who am I? What is this? What is love? Baby don&#x27;t hurt me&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+</feed>
